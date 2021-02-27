@@ -1,0 +1,7 @@
+name: SurvivalHeroes
+version: ${project.version}
+main: dev.gamer.heroesSurvival.SurvivalHeroes
+api-version: 1.13
+authors: [UmGamer_]
+description: Plugin desenvolvido para o Survival Heroes
+website: https://github.com/DevUmGamer

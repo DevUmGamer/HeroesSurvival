@@ -1,0 +1,22 @@
+##############################
+#+      SurvivalHeroes      +#
+#         Ariela Dev         #
+#+      Versão: 1.0.0       +#
+##############################
+
+#Prefix
+Prefix: "&7[&9Survival&eHeroes&7]"
+
+#Discord
+Discord: "null"
+#Site
+Site: "null"
+#Forum
+Forum: "null"
+#DiscordInt
+DiscordInt:
+  Token:
+  Id:
+  ChannelId:
+  ConsoleId:
+  MisterPasteleiro: true
