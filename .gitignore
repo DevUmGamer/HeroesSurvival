@@ -1,5 +1,7 @@
 target/
 pom.xml.tag
+pom.xml
+SurvivalHeroes.iml
 pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
